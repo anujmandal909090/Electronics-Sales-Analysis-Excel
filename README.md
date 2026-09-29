@@ -84,9 +84,6 @@ Presents KPIs and analysis visually using charts and interactive filters.
 
 The Excel dashboard provides a visual summary of the sales data using KPI cards, charts, and interactive filters.
 
-### Dashboard Preview
-
-![Electronics Sales Dashboard](dashboard_screenshot.png)
 
 ## 🔍 Pivot Table Analysis
 
@@ -111,7 +108,3 @@ Some observations from the workbook:
 - Credit Card and Cash are the major payment modes.
 - Missing ratings, Unknown values, repeated Order IDs, and inconsistent labels should be considered before using the analysis for operational decision-making.
 
-## 🧮 Excel Formulas Used
-
-```excel
-=SUM(Raw_Data!E:E)
